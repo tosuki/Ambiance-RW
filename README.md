@@ -1,6 +1,6 @@
 # Ambiance-RW
 
-a GTK2,and GTK3 file for the Gnome-desktop
+a GTK2,and GTK3 file for the Gnome-desktop.
 
 ![s](https://cn.pling.com/img/2/7/d/0/6f957fb9fc7e6d4099d71f5c3289e15f1efa.jpg)
 
